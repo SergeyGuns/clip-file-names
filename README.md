@@ -1,6 +1,7 @@
 **Win 10 install :**
+tools for copy all file names in dir.
 
- - |Clone or download| / |Download ZIP|
+ - Clone or download / Download ZIP
  - Copy clip-file-names.exe to c:/
  - Double click on clip file names.reg and accept. For add context menu button
 
